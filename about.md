@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I am just a passionate AI freelancer. You can contact me on Upwork here: [https://www.upwork.com](https://www.upwork.com/freelancers/~01531648e4188abe74)
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have developed some quite interesting AI apps. If you are interested, you can visit:
+
+- Poe chatbot RembgAI with automatic background removal capability: https://poe.com/RembgAI
+- Poe chatbot RealPic can generate many realistic images: https://poe.com/RealPic
+- RembgAI Website: https://rembg.ai
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[tamnvhustcc@gmail.com](tamnvhustcc:email@email.com)
